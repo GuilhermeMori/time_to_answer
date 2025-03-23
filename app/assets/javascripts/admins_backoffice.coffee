@@ -6,5 +6,3 @@
 //= require bootstrap/dist/js/bootstrap.bundle.min
 //= require jquery
 //= require sb-admin-2
-//= require jquery-easing/jquery.easing.min
-//= require jquery-easing/jquery.easing
